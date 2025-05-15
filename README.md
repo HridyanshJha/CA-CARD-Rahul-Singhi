@@ -1,10 +1,10 @@
 # CA Rahul Digital Contact Card
 
-A sleek and modern digital ID card app that acts as a central hub for sharing your contact details, including **location**, **WhatsApp**, **email**, and more — built to offer a better interface and branding than traditional tools like Linktree.
+A sleek and modern digital ID card app that acts as a central hub for sharing your **contact details**, including **location**, **WhatsApp**, **email**, and more — built to offer a better interface and branding than traditional tools like Linktree.
 
 ## 🔗 Live Demo
 
-[Insert your deployment link here]
+https://ca-rahul-singhi.netlify.app/
 
 ## 📱 Features
 
@@ -67,7 +67,7 @@ cd ca-rahul-idcard
 npm install
 npm run dev
 ```
-🧪 Development Commands
+**🧪 Development Commands**
 ```sh
 npm run dev — start development server
 
@@ -76,11 +76,12 @@ npm run build — production build
 npm run lint — linting with ESLint
 ```
 
-📌 Customization
+## 📌 Customization
 Update DigitalContactCard.tsx to add or remove contact methods.
 
 Modify CALogo.tsx to use your personal or business logo.
 
 Add new buttons in ContactButton.tsx for any new platforms.
-##💡 Inspiration
+
+## 💡 Inspiration
 Inspired by Linktree but designed for individuals who want a more interactive and visually rich way to share their contact details online.
